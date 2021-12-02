@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635547317 source:c:\users\samsung\desktop\code\testing past papers\main.cpp
+	<vector>
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<algorithm>
+	<list>
+
